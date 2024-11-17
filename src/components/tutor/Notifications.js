@@ -3,6 +3,8 @@ import NavBar from './NavBar';
 import './Notifications.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBell, faEnvelope, faUser } from '@fortawesome/free-solid-svg-icons';
+import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+
 
 export default function Notifications() {
   return (

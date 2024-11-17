@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import NavBar from './NavBar';
 import Home from './components/Home';
-import Font, { Text } from 'react-font'
+// import Font, { Text } from 'react-font'
 import Tutors from './components/tutor/Tutors';
 import Tutees from './components/tutee/Tutees';
 import Profile from './components/Profile';
