@@ -63,12 +63,14 @@ const AllSession = () => {
       <h2 className="all-session-heading">All Sessions</h2>
 
       <div className="search">
+      <div className="search-container">
         <input
           type="text"
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
           className="search-box"
           placeholder="Search..."
+          
         />
         <button className="search-btn" onClick={handleSearchClick}>
           <FaSearch />
@@ -80,6 +82,7 @@ const AllSession = () => {
           </button>
         )}
       </div>
+      </div>q
 
       {/* Display session cards */}
       <div className="session-card-container">
