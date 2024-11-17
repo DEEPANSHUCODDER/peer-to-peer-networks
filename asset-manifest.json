@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.71e9e1b7.css",
-    "main.js": "/homepage/static/js/main.f57cac30.js",
-    "static/media/logo.svg": "/homepage/static/media/logo.f11652d92770fcbb15ed3d01965e0294.svg",
-    "static/media/logo.png": "/homepage/static/media/logo.107d7e14399663aa4caf.png",
-    "static/media/banner.png": "/homepage/static/media/banner.f50cf01a202c879d8050.png",
-    "index.html": "/homepage/index.html",
-    "main.71e9e1b7.css.map": "/homepage/static/css/main.71e9e1b7.css.map",
-    "main.f57cac30.js.map": "/homepage/static/js/main.f57cac30.js.map"
+    "main.css": "/peer-to-peer-networks/static/css/main.71e9e1b7.css",
+    "main.js": "/peer-to-peer-networks/static/js/main.13ed9162.js",
+    "static/media/logo.svg": "/peer-to-peer-networks/static/media/logo.f11652d92770fcbb15ed3d01965e0294.svg",
+    "static/media/logo.png": "/peer-to-peer-networks/static/media/logo.107d7e14399663aa4caf.png",
+    "static/media/banner.png": "/peer-to-peer-networks/static/media/banner.f50cf01a202c879d8050.png",
+    "index.html": "/peer-to-peer-networks/index.html",
+    "main.71e9e1b7.css.map": "/peer-to-peer-networks/static/css/main.71e9e1b7.css.map",
+    "main.13ed9162.js.map": "/peer-to-peer-networks/static/js/main.13ed9162.js.map"
   },
   "entrypoints": [
     "static/css/main.71e9e1b7.css",
-    "static/js/main.f57cac30.js"
+    "static/js/main.13ed9162.js"
   ]
 }
